@@ -33,3 +33,6 @@ def rot13(message):
 step = int(input('Какой шаг сдвига ? '))
 text = input('Введите текст, который нужно зашифровать ')
 print(rot13(text))
+;skldujhfslkdhfnlsakdf
+sadkjfhsad;jfh;aksujdfh
+aslkudfhiuashdf
